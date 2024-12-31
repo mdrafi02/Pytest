@@ -14,3 +14,5 @@ __pycache__/conftest.cpython-312-pytest-8.3.4.pyc
 __pycache__/test_foocompare.cpython-312-pytest-8.3.4.pyc
 __pycache__/test_append.cpython-312-pytest-8.3.4.pyc
 __pycache__/test_module.cpython-312-pytest-8.3.4.pyc
+__pycache__/emaillib.cpython-312.pyc
+__pycache__/test_emaillib.cpython-312-pytest-8.3.4.pyc
