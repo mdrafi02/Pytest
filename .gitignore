@@ -16,3 +16,6 @@ __pycache__/test_append.cpython-312-pytest-8.3.4.pyc
 __pycache__/test_module.cpython-312-pytest-8.3.4.pyc
 __pycache__/emaillib.cpython-312.pyc
 __pycache__/test_emaillib.cpython-312-pytest-8.3.4.pyc
+__pycache__/test_emaillib_using_finalizer.cpython-312-pytest-8.3.4.pyc
+__pycache__/test_yield.cpython-312-pytest-8.3.4.pyc
+__pycache__/test_finalizers.cpython-312-pytest-8.3.4.pyc
